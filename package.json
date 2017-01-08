@@ -1,12 +1,15 @@
 {
-  "name": "edge-out",
-  "version": "0.1",
-  "main": "main.js",
-  "repository": "https://github.com/grahamsinger/edge-out.git",
-  "license": "MIT",
-  "dependencies": {
-    "browserify": "^13.3.0",
-    "ramda": "^0.23.0",
-    "vue": "^2.1.8"
-  }
+    "name": "edge-out",
+    "version": "0.1",
+    "main": "main.js",
+    "repository": "https://github.com/grahamsinger/edge-out.git",
+    "license": "MIT",
+    "dependencies": {
+        "browserify": "^13.3.0",
+        "ramda": "^0.23.0",
+        "vue": "^2.1.8"
+    },
+    "devDependencies": {
+        "beefy": "^2.1.8"
+    }
 }
